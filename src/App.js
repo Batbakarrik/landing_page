@@ -4,6 +4,8 @@ import './App.css';
 
 import styled from "styled-components";
 
+import Form from './components/Form';
+
 const Description = styled.p`
   color: black;
   padding: 8px;
@@ -19,6 +21,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <Description> <li>Liste</li>
         </Description>
+        <Form></Form>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
