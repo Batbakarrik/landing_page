@@ -1,40 +1,49 @@
 import React from 'react'
-import logo from './logo.svg'
-import './App.css'
-
 import styled from 'styled-components'
-
 import Form from './components/Form'
 
+const Page = styled.div`
+  box-sizing: border-box
+  height: 100vh;
+`
+const Header = styled.div`
+  border: 5px solid yellow;
+  display: flex;
+  justify-content: top;
+  align-items: center;
+  `
+const Article = styled.div`
+  border: 5px solid purple;
+  display: flex;
+  justify-content: center;
+  min-height: 400px;
+`
+const Footer = styled.div`
+  border: 5px solid green;
+  display: flex;
+  justify-content: center;
+`
 const Description = styled.p`
+  border: 5px solid red;
   color: black;
   padding: 8px;
-  &:hover {
-    color: purple;
-  }
 `
 
 function App() {
   return (
-    <div className='App'>
-      <header className='App-header'>
-        <img src={logo} className='App-logo' alt='logo' />
-        <Description> <li>Liste</li>
-        </Description>
+    <Page>
+      <Header>
+        <div> XIPITEI</div>
+      </Header>
+      <Article>
         <Form />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className='App-link'
-          href='https://reactjs.org'
-          target='_blank'
-          rel='noopener noreferrer'
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      </Article>
+      <Footer>
+        <Description>
+          <div>Xipitei</div>
+        </Description>
+      </Footer>
+    </Page>
   )
 }
 
