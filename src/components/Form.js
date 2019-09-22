@@ -4,25 +4,29 @@ import styled from 'styled-components'
 const Box = styled.div`
     border: 5px solid seagreen;
     display: flex;
-    padding: 8px;
+    justify-content: center;
+    padding: 2px;
+    flex-wrap: wrap;
     `
 const BoxForm = styled.div`
     border: 2px solid black;
+    width: 300px;
     background-color: ${({color})=>color};
-    align-items: center;
-    min-width: 50px;
-    max-height: 30px;
-    flex-wrap: wrap;
     `
 const Input = styled.input`
     border: 2px solid seagreen;
     background-color: #A1D6E2;
-    width: 150px;
     font-size: 15px;
+`
+const Titre = styled.h1`
+  color: black;
+  font-size: 40px;
+  margin: 2px;
 `
 export default class Form extends Component {
     state = {
-        name: "",
+        firstname: "",
+        lastname: "",
         email:"",
     };
     
@@ -38,13 +42,25 @@ export default class Form extends Component {
     render() {
         return (
             <Box>
+                <Titre>Create your account</Titre>
                 <BoxForm color="#A1D6E2" onSubmit={this.handleSubmit}>
-                    <label htmlFor="nom">Nom</label>
+                    <label htmlFor="nom">First Name</label>
                     <Input
                         onChange={this.handleChange}
                         type="text"
-                        title="name"
-                        value={this.state.name}
+                        title="firstname"
+                        value={this.state.firstname}
+                        placeholder="Taper vôtre Nom"
+                        required
+                    />
+                </BoxForm>
+                <BoxForm color="#A1D6E2" onSubmit={this.handleSubmit}>
+                    <label htmlFor="nom">Last Name</label>
+                    <Input
+                        onChange={this.handleChange}
+                        type="text"
+                        title="lastname"
+                        value={this.state.lastname}
                         placeholder="Taper vôtre Nom"
                         required
                     />

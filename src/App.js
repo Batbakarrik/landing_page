@@ -3,44 +3,53 @@ import styled from 'styled-components'
 import Form from './components/Form'
 
 const Page = styled.div`
+  display: flex;
   box-sizing: border-box
-  height: 100vh;
+  min-height: 100vh;
+  border: 5px solid seagreen;
+  flex-direction:column;
 `
 const Header = styled.div`
+  border: 5px solid seagreen;
+`
+const Article = styled.div`
   border: 5px solid yellow;
   display: flex;
-  justify-content: top;
-  align-items: center;
-  `
-const Article = styled.div`
-  border: 5px solid purple;
-  display: flex;
-  justify-content: center;
-  min-height: 400px;
+  flex: 1;
+  flex-wrap: wrap;
+  @media (min-width: 760px) {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+  }
 `
 const Footer = styled.div`
-  border: 5px solid green;
-  display: flex;
-  justify-content: center;
+  border: 5px solid seagreen;
 `
-const Description = styled.p`
-  border: 5px solid red;
+const Description = styled.div`
+  border: 5px solid seagreen;
+`
+const Titre = styled.h1`
   color: black;
-  padding: 8px;
+  font-size: 55px;
+  margin: 2px;
 `
 
 function App() {
   return (
     <Page>
       <Header>
-        <div> XIPITEI</div>
+        <Titre> XIPITEI</Titre>
       </Header>
       <Article>
+        <Description>
+          <Titre>Xipitei</Titre>
+        </Description>
         <Form />
       </Article>
       <Footer>
         <Description>
-          <div>Xipitei</div>
+            <div>Xipitei</div>
         </Description>
       </Footer>
     </Page>
