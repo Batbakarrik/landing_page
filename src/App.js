@@ -6,50 +6,75 @@ const Page = styled.div`
   display: flex;
   box-sizing: border-box
   min-height: 100vh;
-  border: 5px solid seagreen;
   flex-direction:column;
 `
 const Header = styled.div`
-  border: 5px solid seagreen;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #A1D6E2;
+  opacity: 0.9;
 `
 const Article = styled.div`
-  border: 5px solid yellow;
   display: flex;
   flex: 1;
   flex-wrap: wrap;
   @media (min-width: 760px) {
-    flex: 1;
     display: flex;
+    justify-content: center;
+    align-items: center;
     flex-direction: row;
   }
 `
 const Footer = styled.div`
-  border: 5px solid seagreen;
+  background-color: #1995AD;
 `
 const Description = styled.div`
-  border: 5px solid seagreen;
+  margin: 10px;
 `
 const Titre = styled.h1`
-  color: black;
-  font-size: 55px;
+  color: white;
+  font-size: 60px;
+  margin: 2px;
+`
+const Titre2 = styled.h2`
+  color: white;
+  font-size: 80px;
+  margin: 2px;
+`
+const Entete = styled.div`
+  display: flex;
+  align-items: center;
+`
+const Titre3 = styled.h3`
+  margin: 15px;
+  color: white;
+  font-size: 15px;
+  text-align:
   margin: 2px;
 `
 
 function App() {
   return (
     <Page>
+      <img src={Image} />
       <Header>
-        <Titre> XIPITEI</Titre>
+        <Titre> Xipitei </Titre>
+        <Entete>
+          <Titre3> About Us > </Titre3>
+          <Titre3> Blog ></Titre3>
+          <Titre3> Login ></Titre3>
+        </Entete>
       </Header>
       <Article>
         <Description>
-          <Titre>Xipitei</Titre>
+          <Titre2>Pour intégrer nôtre équipe</Titre2>
         </Description>
         <Form />
       </Article>
       <Footer>
         <Description>
-            <div>Xipitei</div>
+            <div>Xipitei ©2019 Created by Batbakarrik</div>
         </Description>
       </Footer>
     </Page>

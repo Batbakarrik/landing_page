@@ -2,26 +2,37 @@ import React, { Component } from 'react'
 import styled from 'styled-components'
 
 const Box = styled.div`
-    border: 5px solid seagreen;
+    background-color: #A1D6E2;
     display: flex;
     justify-content: center;
-    padding: 2px;
+    align-items: center;
+    padding: 20px 0px 20px 0px;
+    border: 5px, 0px, 0px, 0px;
+    max-height: 300px;
     flex-wrap: wrap;
-    `
+`
 const BoxForm = styled.div`
-    border: 2px solid black;
-    width: 300px;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    height: 40px;
+    width: 210px;
     background-color: ${({color})=>color};
-    `
+`
 const Input = styled.input`
-    border: 2px solid seagreen;
-    background-color: #A1D6E2;
+    background-color: #F1F1F2;
+    padding: 0px 0px 0px 5px;
+    margin: 0px 0px 0px 5px;
     font-size: 15px;
+    &:hover {
+        background-color: #BCBABE; 
+    }
 `
 const Titre = styled.h1`
-  color: black;
-  font-size: 40px;
-  margin: 2px;
+    color: black;
+    font-size: 30px;
+    vertical-align: middle;
+    margin: 2px;
 `
 export default class Form extends Component {
     state = {
@@ -42,40 +53,40 @@ export default class Form extends Component {
     render() {
         return (
             <Box>
-                <Titre>Create your account</Titre>
+                <Titre>CREER VOTRE COMPTE</Titre>
                 <BoxForm color="#A1D6E2" onSubmit={this.handleSubmit}>
-                    <label htmlFor="nom">First Name</label>
                     <Input
                         onChange={this.handleChange}
                         type="text"
                         title="firstname"
                         value={this.state.firstname}
-                        placeholder="Taper vôtre Nom"
+                        placeholder="Prénom"
                         required
                     />
                 </BoxForm>
                 <BoxForm color="#A1D6E2" onSubmit={this.handleSubmit}>
-                    <label htmlFor="nom">Last Name</label>
                     <Input
                         onChange={this.handleChange}
                         type="text"
                         title="lastname"
                         value={this.state.lastname}
-                        placeholder="Taper vôtre Nom"
+                        placeholder="Nom"
                         required
                     />
                 </BoxForm>
                 <BoxForm color="#A1D6E2" onSubmit={this.handleSubmit}>
-                    <label htmlFor="email">Email</label>
                     <Input
                         onChange={this.handleChange}
                         type="email"
                         title="email"
                         pattern=".+@"
                         value={this.state.email}
-                        placeholder="nom@*.*"
+                        placeholder="Email"
                         required
                     />
+                </BoxForm>
+                <BoxForm color="#A1D6E2" onSubmit={this.handleSubmit}>
+                    <button> Valider </button>  
                 </BoxForm>
             </Box>
         )
