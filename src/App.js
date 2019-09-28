@@ -57,7 +57,6 @@ const Titre3 = styled.h3`
 function App() {
   return (
     <Page>
-      <img src={Image} />
       <Header>
         <Titre> Xipitei </Titre>
         <Entete>
