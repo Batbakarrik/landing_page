@@ -12,7 +12,7 @@ const Header = styled.div`
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  background-color: #A1D6E2;
+  background-color: #1995AD;
   opacity: 0.9;
 `
 const Article = styled.div`
