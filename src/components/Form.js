@@ -10,29 +10,49 @@ const Box = styled.div`
     border: 5px, 0px, 0px, 0px;
     max-height: 300px;
     flex-wrap: wrap;
+    @media (min-width: 760px) {
+        display: flex;
+        flex-direction: row;
+        padding: 5px 5px;
+        width: 100%;
+      }
 `
 const BoxForm = styled.div`
     display: flex;
     justify-content: center;
-    padding: 5px;
+    padding: 5px 150px;
     height: 40px;
-    width: 210px;
+    width:100%;
     background-color: ${({color})=>color};
+    @media (min-width: 760px) {
+        display: flex;
+        flex-direction: row;
+        padding: 2px 1px 2px 1px;
+        width: 9em;
+        flex-wrap: wrap;
+      }
 `
 const Input = styled.input`
     background-color: #F1F1F2;
-    padding: 0px 0px 0px 5px;
-    margin: 0px 0px 0px 5px;
+    margin: 0px 5px 0px 5px;
     font-size: 15px;
     &:hover {
         background-color: #BCBABE; 
     }
+    @media (min-width: 760px) {
+        display: flex;
+        flex-direction: row;
+        padding: 2px 1px 2px 1px;
+        width: 9em;
+        flex-wrap: wrap;
+      }
 `
 const Titre = styled.h1`
     color: black;
     font-size: 30px;
     vertical-align: middle;
-    margin: 2px;
+    margin: 10px;
+    width: 12em;
 `
 export default class Form extends Component {
     state = {
