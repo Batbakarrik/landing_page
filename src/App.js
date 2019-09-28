@@ -60,7 +60,7 @@ function App() {
       <Header>
         <Titre> Xipitei </Titre>
         <Entete>
-          <Titre3> About Us > </Titre3>
+          <Titre3> <a href="https://twitter.com/Xipitei_Fb">Twitter ></a> </Titre3>
           <Titre3> <a href="https://www.blog.xipitei.com">Blog ></a></Titre3>
           <Titre3> Login ></Titre3>
         </Entete>
