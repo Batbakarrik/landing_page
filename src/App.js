@@ -14,6 +14,7 @@ const Header = styled.div`
   justify-content: space-between;
   background-color: #1995AD;
   opacity: 0.9;
+  flex: wrap;
 `
 const Article = styled.div`
   display: flex;
@@ -35,7 +36,7 @@ const Description = styled.div`
 `
 const Titre = styled.h1`
   color: white;
-  font-size: 60px;
+  font-size: 55px;
   margin: 2px;
 `
 const Titre2 = styled.h2`
@@ -48,11 +49,11 @@ const Entete = styled.div`
   align-items: center;
 `
 const Titre3 = styled.h3`
-  margin: 15px;
+  margin: 5px;
   color: white;
-  font-size: 15px;
+  font-size: 10px;
   text-align:
-  margin: 2px;
+  margin: 1px;
 `
 
 function App() {
