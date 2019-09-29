@@ -1,0 +1,2533 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="92.142441"
+   height="95.016212"
+   id="svg976"
+   viewBox="0 0 92.142441 95.016207"
+   sodipodi:docname="Lauburu_bleue.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata982">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs980">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8919"
+       id="pattern8927"
+       patternTransform="matrix(10,0,0,10,-0.566933,-59.849231)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2787"
+       id="pattern8919"
+       patternTransform="matrix(10,0,0,10,-0.566933,-1155.9645)" />
+    <linearGradient
+       id="linearGradient8782"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#999999;stop-opacity:1;"
+         offset="0"
+         id="stop8780" />
+    </linearGradient>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2779"
+       id="pattern2787"
+       patternTransform="matrix(10,0,0,10,-0.56692854,-1612.6126)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2771"
+       id="pattern2779"
+       patternTransform="matrix(10,0,0,10,-0.56692854,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2763"
+       id="pattern2771"
+       patternTransform="matrix(10,0,0,10,-266.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2755"
+       id="pattern2763"
+       patternTransform="matrix(10,0,0,10,-268.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2747"
+       id="pattern2755"
+       patternTransform="matrix(10,0,0,10,-270.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2739"
+       id="pattern2747"
+       patternTransform="matrix(10,0,0,10,-272.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2731"
+       id="pattern2739"
+       patternTransform="matrix(10,0,0,10,-274.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2723"
+       id="pattern2731"
+       patternTransform="matrix(10,0,0,10,-276.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2715"
+       id="pattern2723"
+       patternTransform="matrix(10,0,0,10,-278.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2707"
+       id="pattern2715"
+       patternTransform="matrix(10,0,0,10,-280.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2699"
+       id="pattern2707"
+       patternTransform="matrix(10,0,0,10,-282.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2691"
+       id="pattern2699"
+       patternTransform="matrix(10,0,0,10,-284.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2683"
+       id="pattern2691"
+       patternTransform="matrix(10,0,0,10,-286.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2675"
+       id="pattern2683"
+       patternTransform="matrix(10,0,0,10,-288.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2667"
+       id="pattern2675"
+       patternTransform="matrix(10,0,0,10,-290.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2659"
+       id="pattern2667"
+       patternTransform="matrix(10,0,0,10,-292.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2651"
+       id="pattern2659"
+       patternTransform="matrix(10,0,0,10,-294.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2643"
+       id="pattern2651"
+       patternTransform="matrix(10,0,0,10,-296.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2635"
+       id="pattern2643"
+       patternTransform="matrix(10,0,0,10,-298.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2627"
+       id="pattern2635"
+       patternTransform="matrix(10,0,0,10,-300.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2619"
+       id="pattern2627"
+       patternTransform="matrix(10,0,0,10,-302.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2611"
+       id="pattern2619"
+       patternTransform="matrix(10,0,0,10,-304.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2603"
+       id="pattern2611"
+       patternTransform="matrix(10,0,0,10,-306.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2595"
+       id="pattern2603"
+       patternTransform="matrix(10,0,0,10,-308.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2587"
+       id="pattern2595"
+       patternTransform="matrix(10,0,0,10,-310.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2579"
+       id="pattern2587"
+       patternTransform="matrix(10,0,0,10,-312.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2571"
+       id="pattern2579"
+       patternTransform="matrix(10,0,0,10,-314.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2563"
+       id="pattern2571"
+       patternTransform="matrix(10,0,0,10,-316.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2555"
+       id="pattern2563"
+       patternTransform="matrix(10,0,0,10,-318.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2547"
+       id="pattern2555"
+       patternTransform="matrix(10,0,0,10,-320.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2539"
+       id="pattern2547"
+       patternTransform="matrix(10,0,0,10,-322.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2531"
+       id="pattern2539"
+       patternTransform="matrix(10,0,0,10,-324.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2523"
+       id="pattern2531"
+       patternTransform="matrix(10,0,0,10,-326.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2515"
+       id="pattern2523"
+       patternTransform="matrix(10,0,0,10,-328.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2507"
+       id="pattern2515"
+       patternTransform="matrix(10,0,0,10,-330.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2499"
+       id="pattern2507"
+       patternTransform="matrix(10,0,0,10,-334.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2491"
+       id="pattern2499"
+       patternTransform="matrix(10,0,0,10,-336.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2483"
+       id="pattern2491"
+       patternTransform="matrix(10,0,0,10,-338.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2475"
+       id="pattern2483"
+       patternTransform="matrix(10,0,0,10,-340.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2467"
+       id="pattern2475"
+       patternTransform="matrix(10,0,0,10,-342.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2459"
+       id="pattern2467"
+       patternTransform="matrix(10,0,0,10,-344.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2451"
+       id="pattern2459"
+       patternTransform="matrix(10,0,0,10,-346.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2443"
+       id="pattern2451"
+       patternTransform="matrix(10,0,0,10,-348.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2435"
+       id="pattern2443"
+       patternTransform="matrix(10,0,0,10,-350.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2427"
+       id="pattern2435"
+       patternTransform="matrix(10,0,0,10,-352.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2419"
+       id="pattern2427"
+       patternTransform="matrix(10,0,0,10,-354.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2411"
+       id="pattern2419"
+       patternTransform="matrix(10,0,0,10,-356.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2403"
+       id="pattern2411"
+       patternTransform="matrix(10,0,0,10,-358.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2395"
+       id="pattern2403"
+       patternTransform="matrix(10,0,0,10,-360.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2387"
+       id="pattern2395"
+       patternTransform="matrix(10,0,0,10,-362.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2379"
+       id="pattern2387"
+       patternTransform="matrix(10,0,0,10,-364.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2371"
+       id="pattern2379"
+       patternTransform="matrix(10,0,0,10,-366.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2363"
+       id="pattern2371"
+       patternTransform="matrix(10,0,0,10,-368.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2355"
+       id="pattern2363"
+       patternTransform="matrix(10,0,0,10,-370.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2347"
+       id="pattern2355"
+       patternTransform="matrix(10,0,0,10,-372.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2339"
+       id="pattern2347"
+       patternTransform="matrix(10,0,0,10,-374.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2331"
+       id="pattern2339"
+       patternTransform="matrix(10,0,0,10,-376.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2323"
+       id="pattern2331"
+       patternTransform="matrix(10,0,0,10,-378.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2315"
+       id="pattern2323"
+       patternTransform="matrix(10,0,0,10,-380.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2307"
+       id="pattern2315"
+       patternTransform="matrix(10,0,0,10,-382.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2299"
+       id="pattern2307"
+       patternTransform="matrix(10,0,0,10,-384.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2291"
+       id="pattern2299"
+       patternTransform="matrix(10,0,0,10,-386.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2283"
+       id="pattern2291"
+       patternTransform="matrix(10,0,0,10,-388.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2275"
+       id="pattern2283"
+       patternTransform="matrix(10,0,0,10,-390.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2267"
+       id="pattern2275"
+       patternTransform="matrix(10,0,0,10,-392.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2259"
+       id="pattern2267"
+       patternTransform="matrix(10,0,0,10,-394.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2251"
+       id="pattern2259"
+       patternTransform="matrix(10,0,0,10,-396.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2243"
+       id="pattern2251"
+       patternTransform="matrix(10,0,0,10,-398.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2235"
+       id="pattern2243"
+       patternTransform="matrix(10,0,0,10,-400.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2227"
+       id="pattern2235"
+       patternTransform="matrix(10,0,0,10,-402.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2219"
+       id="pattern2227"
+       patternTransform="matrix(10,0,0,10,-404.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2211"
+       id="pattern2219"
+       patternTransform="matrix(10,0,0,10,-406.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2203"
+       id="pattern2211"
+       patternTransform="matrix(10,0,0,10,-408.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2195"
+       id="pattern2203"
+       patternTransform="matrix(10,0,0,10,-410.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2187"
+       id="pattern2195"
+       patternTransform="matrix(10,0,0,10,-412.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2179"
+       id="pattern2187"
+       patternTransform="matrix(10,0,0,10,-414.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2171"
+       id="pattern2179"
+       patternTransform="matrix(10,0,0,10,-416.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2163"
+       id="pattern2171"
+       patternTransform="matrix(10,0,0,10,-418.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2155"
+       id="pattern2163"
+       patternTransform="matrix(10,0,0,10,-420.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2147"
+       id="pattern2155"
+       patternTransform="matrix(10,0,0,10,-422.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2139"
+       id="pattern2147"
+       patternTransform="matrix(10,0,0,10,-424.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2131"
+       id="pattern2139"
+       patternTransform="matrix(10,0,0,10,-426.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2123"
+       id="pattern2131"
+       patternTransform="matrix(10,0,0,10,-428.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2115"
+       id="pattern2123"
+       patternTransform="matrix(10,0,0,10,-430.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2107"
+       id="pattern2115"
+       patternTransform="matrix(10,0,0,10,-432.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2099"
+       id="pattern2107"
+       patternTransform="matrix(10,0,0,10,-434.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2091"
+       id="pattern2099"
+       patternTransform="matrix(10,0,0,10,-436.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2083"
+       id="pattern2091"
+       patternTransform="matrix(10,0,0,10,-438.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2075"
+       id="pattern2083"
+       patternTransform="matrix(10,0,0,10,-440.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2067"
+       id="pattern2075"
+       patternTransform="matrix(10,0,0,10,-442.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2059"
+       id="pattern2067"
+       patternTransform="matrix(10,0,0,10,-444.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2051"
+       id="pattern2059"
+       patternTransform="matrix(10,0,0,10,-446.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2043"
+       id="pattern2051"
+       patternTransform="matrix(10,0,0,10,-448.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2035"
+       id="pattern2043"
+       patternTransform="matrix(10,0,0,10,-450.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2027"
+       id="pattern2035"
+       patternTransform="matrix(10,0,0,10,-452.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2019"
+       id="pattern2027"
+       patternTransform="matrix(10,0,0,10,-454.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2011"
+       id="pattern2019"
+       patternTransform="matrix(10,0,0,10,-456.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2003"
+       id="pattern2011"
+       patternTransform="matrix(10,0,0,10,-458.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1995"
+       id="pattern2003"
+       patternTransform="matrix(10,0,0,10,-460.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1987"
+       id="pattern1995"
+       patternTransform="matrix(10,0,0,10,-462.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1979"
+       id="pattern1987"
+       patternTransform="matrix(10,0,0,10,-464.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1971"
+       id="pattern1979"
+       patternTransform="matrix(10,0,0,10,-466.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1963"
+       id="pattern1971"
+       patternTransform="matrix(10,0,0,10,-468.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1955"
+       id="pattern1963"
+       patternTransform="matrix(10,0,0,10,-470.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1947"
+       id="pattern1955"
+       patternTransform="matrix(10,0,0,10,-472.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1939"
+       id="pattern1947"
+       patternTransform="matrix(10,0,0,10,-474.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1931"
+       id="pattern1939"
+       patternTransform="matrix(10,0,0,10,-476.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1923"
+       id="pattern1931"
+       patternTransform="matrix(10,0,0,10,-478.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1915"
+       id="pattern1923"
+       patternTransform="matrix(10,0,0,10,-480.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1907"
+       id="pattern1915"
+       patternTransform="matrix(10,0,0,10,-482.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1899"
+       id="pattern1907"
+       patternTransform="matrix(10,0,0,10,-484.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1891"
+       id="pattern1899"
+       patternTransform="matrix(10,0,0,10,-486.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1883"
+       id="pattern1891"
+       patternTransform="matrix(10,0,0,10,-488.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1875"
+       id="pattern1883"
+       patternTransform="matrix(10,0,0,10,-490.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1867"
+       id="pattern1875"
+       patternTransform="matrix(10,0,0,10,-492.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1859"
+       id="pattern1867"
+       patternTransform="matrix(10,0,0,10,-494.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1851"
+       id="pattern1859"
+       patternTransform="matrix(10,0,0,10,-496.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1843"
+       id="pattern1851"
+       patternTransform="matrix(10,0,0,10,-498.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1835"
+       id="pattern1843"
+       patternTransform="matrix(10,0,0,10,-500.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1827"
+       id="pattern1835"
+       patternTransform="matrix(10,0,0,10,-502.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1819"
+       id="pattern1827"
+       patternTransform="matrix(10,0,0,10,-504.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1811"
+       id="pattern1819"
+       patternTransform="matrix(10,0,0,10,-506.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1803"
+       id="pattern1811"
+       patternTransform="matrix(10,0,0,10,-508.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1795"
+       id="pattern1803"
+       patternTransform="matrix(10,0,0,10,-510.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1787"
+       id="pattern1795"
+       patternTransform="matrix(10,0,0,10,-512.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1779"
+       id="pattern1787"
+       patternTransform="matrix(10,0,0,10,-514.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1771"
+       id="pattern1779"
+       patternTransform="matrix(10,0,0,10,-516.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1763"
+       id="pattern1771"
+       patternTransform="matrix(10,0,0,10,-518.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1755"
+       id="pattern1763"
+       patternTransform="matrix(10,0,0,10,-520.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1747"
+       id="pattern1755"
+       patternTransform="matrix(10,0,0,10,-522.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1739"
+       id="pattern1747"
+       patternTransform="matrix(10,0,0,10,-524.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1731"
+       id="pattern1739"
+       patternTransform="matrix(10,0,0,10,-526.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1723"
+       id="pattern1731"
+       patternTransform="matrix(10,0,0,10,-528.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1715"
+       id="pattern1723"
+       patternTransform="matrix(10,0,0,10,-530.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1707"
+       id="pattern1715"
+       patternTransform="matrix(10,0,0,10,-532.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1699"
+       id="pattern1707"
+       patternTransform="matrix(10,0,0,10,-534.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1691"
+       id="pattern1699"
+       patternTransform="matrix(10,0,0,10,-536.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1683"
+       id="pattern1691"
+       patternTransform="matrix(10,0,0,10,-538.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1675"
+       id="pattern1683"
+       patternTransform="matrix(10,0,0,10,-540.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1667"
+       id="pattern1675"
+       patternTransform="matrix(10,0,0,10,-542.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1659"
+       id="pattern1667"
+       patternTransform="matrix(10,0,0,10,-544.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1651"
+       id="pattern1659"
+       patternTransform="matrix(10,0,0,10,-546.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1643"
+       id="pattern1651"
+       patternTransform="matrix(10,0,0,10,-548.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1635"
+       id="pattern1643"
+       patternTransform="matrix(10,0,0,10,-550.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1627"
+       id="pattern1635"
+       patternTransform="matrix(10,0,0,10,-552.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1619"
+       id="pattern1627"
+       patternTransform="matrix(10,0,0,10,-554.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1611"
+       id="pattern1619"
+       patternTransform="matrix(10,0,0,10,-556.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1603"
+       id="pattern1611"
+       patternTransform="matrix(10,0,0,10,-558.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1595"
+       id="pattern1603"
+       patternTransform="matrix(10,0,0,10,-560.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1587"
+       id="pattern1595"
+       patternTransform="matrix(10,0,0,10,-562.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1579"
+       id="pattern1587"
+       patternTransform="matrix(10,0,0,10,-564.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1571"
+       id="pattern1579"
+       patternTransform="matrix(10,0,0,10,-566.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1563"
+       id="pattern1571"
+       patternTransform="matrix(10,0,0,10,-568.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1555"
+       id="pattern1563"
+       patternTransform="matrix(10,0,0,10,-570.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1547"
+       id="pattern1555"
+       patternTransform="matrix(10,0,0,10,-572.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1539"
+       id="pattern1547"
+       patternTransform="matrix(10,0,0,10,-574.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1531"
+       id="pattern1539"
+       patternTransform="matrix(10,0,0,10,-576.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1523"
+       id="pattern1531"
+       patternTransform="matrix(10,0,0,10,-578.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1515"
+       id="pattern1523"
+       patternTransform="matrix(10,0,0,10,-580.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1507"
+       id="pattern1515"
+       patternTransform="matrix(10,0,0,10,-582.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1499"
+       id="pattern1507"
+       patternTransform="matrix(10,0,0,10,-584.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1491"
+       id="pattern1499"
+       patternTransform="matrix(10,0,0,10,-586.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1483"
+       id="pattern1491"
+       patternTransform="matrix(10,0,0,10,-588.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1475"
+       id="pattern1483"
+       patternTransform="matrix(10,0,0,10,-590.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1467"
+       id="pattern1475"
+       patternTransform="matrix(10,0,0,10,-592.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1459"
+       id="pattern1467"
+       patternTransform="matrix(10,0,0,10,-594.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1451"
+       id="pattern1459"
+       patternTransform="matrix(10,0,0,10,-596.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1443"
+       id="pattern1451"
+       patternTransform="matrix(10,0,0,10,-598.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1435"
+       id="pattern1443"
+       patternTransform="matrix(10,0,0,10,-600.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1427"
+       id="pattern1435"
+       patternTransform="matrix(10,0,0,10,-602.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1419"
+       id="pattern1427"
+       patternTransform="matrix(10,0,0,10,-604.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1411"
+       id="pattern1419"
+       patternTransform="matrix(10,0,0,10,-606.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1403"
+       id="pattern1411"
+       patternTransform="matrix(10,0,0,10,-608.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1395"
+       id="pattern1403"
+       patternTransform="matrix(10,0,0,10,-610.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1387"
+       id="pattern1395"
+       patternTransform="matrix(10,0,0,10,-612.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1379"
+       id="pattern1387"
+       patternTransform="matrix(10,0,0,10,-614.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1371"
+       id="pattern1379"
+       patternTransform="matrix(10,0,0,10,-616.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1363"
+       id="pattern1371"
+       patternTransform="matrix(10,0,0,10,-618.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1355"
+       id="pattern1363"
+       patternTransform="matrix(10,0,0,10,-620.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1347"
+       id="pattern1355"
+       patternTransform="matrix(10,0,0,10,-622.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1339"
+       id="pattern1347"
+       patternTransform="matrix(10,0,0,10,-624.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1331"
+       id="pattern1339"
+       patternTransform="matrix(10,0,0,10,-626.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1323"
+       id="pattern1331"
+       patternTransform="matrix(10,0,0,10,-628.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1315"
+       id="pattern1323"
+       patternTransform="matrix(10,0,0,10,-630.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1307"
+       id="pattern1315"
+       patternTransform="matrix(10,0,0,10,-632.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1299"
+       id="pattern1307"
+       patternTransform="matrix(10,0,0,10,-634.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1291"
+       id="pattern1299"
+       patternTransform="matrix(10,0,0,10,-636.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1283"
+       id="pattern1291"
+       patternTransform="matrix(10,0,0,10,-638.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1275"
+       id="pattern1283"
+       patternTransform="matrix(10,0,0,10,-640.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1267"
+       id="pattern1275"
+       patternTransform="matrix(10,0,0,10,-642.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1259"
+       id="pattern1267"
+       patternTransform="matrix(10,0,0,10,-644.82013,-729.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1251"
+       id="pattern1259"
+       patternTransform="matrix(10,0,0,10,-644.82013,-727.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1243"
+       id="pattern1251"
+       patternTransform="matrix(10,0,0,10,-644.82013,-725.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1235"
+       id="pattern1243"
+       patternTransform="matrix(10,0,0,10,-644.82013,-723.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1227"
+       id="pattern1235"
+       patternTransform="matrix(10,0,0,10,-644.82013,-721.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1219"
+       id="pattern1227"
+       patternTransform="matrix(10,0,0,10,-644.82013,-719.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1211"
+       id="pattern1219"
+       patternTransform="matrix(10,0,0,10,-644.82013,-717.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1203"
+       id="pattern1211"
+       patternTransform="matrix(10,0,0,10,-644.82013,-715.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1195"
+       id="pattern1203"
+       patternTransform="matrix(10,0,0,10,-644.82013,-713.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1187"
+       id="pattern1195"
+       patternTransform="matrix(10,0,0,10,-644.82013,-711.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1179"
+       id="pattern1187"
+       patternTransform="matrix(10,0,0,10,-644.82013,-709.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1171"
+       id="pattern1179"
+       patternTransform="matrix(10,0,0,10,-644.82013,-707.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1163"
+       id="pattern1171"
+       patternTransform="matrix(10,0,0,10,-644.82013,-705.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1155"
+       id="pattern1163"
+       patternTransform="matrix(10,0,0,10,-644.82013,-703.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1147"
+       id="pattern1155"
+       patternTransform="matrix(10,0,0,10,-644.82013,-701.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1139"
+       id="pattern1147"
+       patternTransform="matrix(10,0,0,10,-644.82013,-699.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1131"
+       id="pattern1139"
+       patternTransform="matrix(10,0,0,10,-644.82013,-697.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1123"
+       id="pattern1131"
+       patternTransform="matrix(10,0,0,10,-644.82013,-695.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1115"
+       id="pattern1123"
+       patternTransform="matrix(10,0,0,10,-644.82013,-693.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1107"
+       id="pattern1115"
+       patternTransform="matrix(10,0,0,10,-644.82013,-691.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1099"
+       id="pattern1107"
+       patternTransform="matrix(10,0,0,10,-644.82013,-689.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1091"
+       id="pattern1099"
+       patternTransform="matrix(10,0,0,10,-644.82013,-687.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1083"
+       id="pattern1091"
+       patternTransform="matrix(10,0,0,10,-644.82013,-685.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1075"
+       id="pattern1083"
+       patternTransform="matrix(10,0,0,10,-644.82013,-683.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1067"
+       id="pattern1075"
+       patternTransform="matrix(10,0,0,10,-644.82013,-681.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1059"
+       id="pattern1067"
+       patternTransform="matrix(10,0,0,10,-644.82013,-679.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1051"
+       id="pattern1059"
+       patternTransform="matrix(10,0,0,10,-644.82013,-677.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1043"
+       id="pattern1051"
+       patternTransform="matrix(10,0,0,10,-644.82013,-675.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1035"
+       id="pattern1043"
+       patternTransform="matrix(10,0,0,10,-644.82013,-673.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1027"
+       id="pattern1035"
+       patternTransform="matrix(10,0,0,10,-644.82013,-671.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1019"
+       id="pattern1027"
+       patternTransform="matrix(10,0,0,10,-644.82013,-669.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1011"
+       id="pattern1019"
+       patternTransform="matrix(10,0,0,10,-644.82013,-667.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1003"
+       id="pattern1011"
+       patternTransform="matrix(10,0,0,10,-644.82013,-665.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern995"
+       id="pattern1003"
+       patternTransform="matrix(10,0,0,10,-644.82013,-663.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern987"
+       id="pattern995"
+       patternTransform="matrix(10,0,0,10,-644.82013,-661.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern979"
+       id="pattern987"
+       patternTransform="matrix(10,0,0,10,-644.82013,-659.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern971"
+       id="pattern979"
+       patternTransform="matrix(10,0,0,10,-644.82013,-657.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern963"
+       id="pattern971"
+       patternTransform="matrix(10,0,0,10,-644.82013,-655.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern955"
+       id="pattern963"
+       patternTransform="matrix(10,0,0,10,-644.82013,-653.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern947"
+       id="pattern955"
+       patternTransform="matrix(10,0,0,10,-644.82013,-651.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern939"
+       id="pattern947"
+       patternTransform="matrix(10,0,0,10,-644.82013,-649.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern931"
+       id="pattern939"
+       patternTransform="matrix(10,0,0,10,-644.82013,-647.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern923"
+       id="pattern931"
+       patternTransform="matrix(10,0,0,10,-644.82013,-645.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern915"
+       id="pattern923"
+       patternTransform="matrix(10,0,0,10,-644.82013,-643.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern907"
+       id="pattern915"
+       patternTransform="matrix(10,0,0,10,-644.82013,-641.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern899"
+       id="pattern907"
+       patternTransform="matrix(10,0,0,10,-644.82013,-639.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern891"
+       id="pattern899"
+       patternTransform="matrix(10,0,0,10,-644.82013,-637.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern883"
+       id="pattern891"
+       patternTransform="matrix(10,0,0,10,-644.82013,-635.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern875"
+       id="pattern883"
+       patternTransform="matrix(10,0,0,10,-644.82013,-633.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern867"
+       id="pattern875"
+       patternTransform="matrix(10,0,0,10,-644.82013,-631.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern859"
+       id="pattern867"
+       patternTransform="matrix(10,0,0,10,-644.82013,-629.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern851"
+       id="pattern859"
+       patternTransform="matrix(10,0,0,10,-644.82013,-627.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern843"
+       id="pattern851"
+       patternTransform="matrix(10,0,0,10,-644.82013,-625.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern835"
+       id="pattern843"
+       patternTransform="matrix(10,0,0,10,-644.82013,-623.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern827"
+       id="pattern835"
+       patternTransform="matrix(10,0,0,10,-644.82013,-621.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern819"
+       id="pattern827"
+       patternTransform="matrix(10,0,0,10,-644.82013,-619.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern811"
+       id="pattern819"
+       patternTransform="matrix(10,0,0,10,-644.82013,-617.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern803"
+       id="pattern811"
+       patternTransform="matrix(10,0,0,10,-644.82013,-615.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern795"
+       id="pattern803"
+       patternTransform="matrix(10,0,0,10,-644.82013,-613.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern787"
+       id="pattern795"
+       patternTransform="matrix(10,0,0,10,-644.82013,-611.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern779"
+       id="pattern787"
+       patternTransform="matrix(10,0,0,10,-644.82013,-609.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern771"
+       id="pattern779"
+       patternTransform="matrix(10,0,0,10,-644.82013,-607.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern763"
+       id="pattern771"
+       patternTransform="matrix(10,0,0,10,-644.82013,-605.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern755"
+       id="pattern763"
+       patternTransform="matrix(10,0,0,10,-644.82013,-603.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern747"
+       id="pattern755"
+       patternTransform="matrix(10,0,0,10,-644.82013,-601.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern739"
+       id="pattern747"
+       patternTransform="matrix(10,0,0,10,-644.82013,-599.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern731"
+       id="pattern739"
+       patternTransform="matrix(10,0,0,10,-644.82013,-597.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern723"
+       id="pattern731"
+       patternTransform="matrix(10,0,0,10,-644.82013,-595.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern715"
+       id="pattern723"
+       patternTransform="matrix(10,0,0,10,-644.82013,-593.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern707"
+       id="pattern715"
+       patternTransform="matrix(10,0,0,10,-644.82013,-591.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern699"
+       id="pattern707"
+       patternTransform="matrix(10,0,0,10,-644.82013,-589.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern691"
+       id="pattern699"
+       patternTransform="matrix(10,0,0,10,-644.82013,-587.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern683"
+       id="pattern691"
+       patternTransform="matrix(10,0,0,10,-644.82013,-585.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern675"
+       id="pattern683"
+       patternTransform="matrix(10,0,0,10,-644.82013,-583.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern667"
+       id="pattern675"
+       patternTransform="matrix(10,0,0,10,-644.82013,-581.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern659"
+       id="pattern667"
+       patternTransform="matrix(10,0,0,10,-644.82013,-579.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern651"
+       id="pattern659"
+       patternTransform="matrix(10,0,0,10,-644.82013,-577.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern643"
+       id="pattern651"
+       patternTransform="matrix(10,0,0,10,-644.82013,-575.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern635"
+       id="pattern643"
+       patternTransform="matrix(10,0,0,10,-644.82013,-573.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern627"
+       id="pattern635"
+       patternTransform="matrix(10,0,0,10,-644.82013,-571.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern619"
+       id="pattern627"
+       patternTransform="matrix(10,0,0,10,-644.82013,-569.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern611"
+       id="pattern619"
+       patternTransform="matrix(10,0,0,10,-644.82013,-567.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern603"
+       id="pattern611"
+       patternTransform="matrix(10,0,0,10,-644.82013,-565.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern595"
+       id="pattern603"
+       patternTransform="matrix(10,0,0,10,-644.82013,-563.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern587"
+       id="pattern595"
+       patternTransform="matrix(10,0,0,10,-644.82013,-561.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern579"
+       id="pattern587"
+       patternTransform="matrix(10,0,0,10,-644.82013,-559.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern571"
+       id="pattern579"
+       patternTransform="matrix(10,0,0,10,-644.82013,-557.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern563"
+       id="pattern571"
+       patternTransform="matrix(10,0,0,10,-644.82013,-555.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern555"
+       id="pattern563"
+       patternTransform="matrix(10,0,0,10,-644.82013,-553.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern547"
+       id="pattern555"
+       patternTransform="matrix(10,0,0,10,-644.82013,-551.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern539"
+       id="pattern547"
+       patternTransform="matrix(10,0,0,10,-644.82013,-549.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern531"
+       id="pattern539"
+       patternTransform="matrix(10,0,0,10,-644.82013,-547.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern523"
+       id="pattern531"
+       patternTransform="matrix(10,0,0,10,-644.82013,-545.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern515"
+       id="pattern523"
+       patternTransform="matrix(10,0,0,10,-644.82013,-543.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern507"
+       id="pattern515"
+       patternTransform="matrix(10,0,0,10,-644.82013,-541.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern499"
+       id="pattern507"
+       patternTransform="matrix(10,0,0,10,-644.82013,-539.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern491"
+       id="pattern499"
+       patternTransform="matrix(10,0,0,10,-644.82013,-537.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern483"
+       id="pattern491"
+       patternTransform="matrix(10,0,0,10,-644.82013,-535.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern475"
+       id="pattern483"
+       patternTransform="matrix(10,0,0,10,-644.82013,-533.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern467"
+       id="pattern475"
+       patternTransform="matrix(10,0,0,10,-644.82013,-531.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern459"
+       id="pattern467"
+       patternTransform="matrix(10,0,0,10,-644.82013,-529.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern451"
+       id="pattern459"
+       patternTransform="matrix(10,0,0,10,-644.82013,-527.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern443"
+       id="pattern451"
+       patternTransform="matrix(10,0,0,10,-644.82013,-525.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern435"
+       id="pattern443"
+       patternTransform="matrix(10,0,0,10,-644.82013,-523.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern427"
+       id="pattern435"
+       patternTransform="matrix(10,0,0,10,-644.82013,-521.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern419"
+       id="pattern427"
+       patternTransform="matrix(10,0,0,10,-644.82013,-519.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern411"
+       id="pattern419"
+       patternTransform="matrix(10,0,0,10,-644.82013,-517.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern403"
+       id="pattern411"
+       patternTransform="matrix(10,0,0,10,-644.82013,-515.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern395"
+       id="pattern403"
+       patternTransform="matrix(10,0,0,10,-644.82013,-513.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern387"
+       id="pattern395"
+       patternTransform="matrix(10,0,0,10,-644.82013,-511.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern379"
+       id="pattern387"
+       patternTransform="matrix(10,0,0,10,-644.82013,-509.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern371"
+       id="pattern379"
+       patternTransform="matrix(10,0,0,10,-644.82013,-507.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern363"
+       id="pattern371"
+       patternTransform="matrix(10,0,0,10,-644.82013,-505.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern355"
+       id="pattern363"
+       patternTransform="matrix(10,0,0,10,-644.82013,-503.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern347"
+       id="pattern355"
+       patternTransform="matrix(10,0,0,10,-644.82013,-501.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern339"
+       id="pattern347"
+       patternTransform="matrix(10,0,0,10,-644.82013,-499.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern331"
+       id="pattern339"
+       patternTransform="matrix(10,0,0,10,-644.82013,-497.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern323"
+       id="pattern331"
+       patternTransform="matrix(10,0,0,10,-644.82013,-495.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern315"
+       id="pattern323"
+       patternTransform="matrix(10,0,0,10,-644.82013,-493.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern307"
+       id="pattern315"
+       patternTransform="matrix(10,0,0,10,-644.82013,-491.94553)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern50"
+       id="pattern307"
+       patternTransform="matrix(10,0,0,10,-644.82013,-489.94553)" />
+    <pattern
+       patternTransform="matrix(10,0,0,10,-0.56692854,-0.56692543)"
+       id="pattern50"
+       xlink:href="#Strips1_1"
+       inkscape:collect="always" />
+    <pattern
+       patternTransform="matrix(10,0,0,10,-0.56692854,-0.56692543)"
+       id="pattern48"
+       xlink:href="#Strips1_1"
+       inkscape:collect="always" />
+    <pattern
+       patternTransform="matrix(10,0,0,10,-0.56692854,-0.56692543)"
+       id="pattern46"
+       xlink:href="#Strips1_1"
+       inkscape:collect="always" />
+    <pattern
+       patternTransform="matrix(10,0,0,10,-0.56692854,-0.56692543)"
+       id="pattern44"
+       xlink:href="#Strips1_1"
+       inkscape:collect="always" />
+    <pattern
+       inkscape:isstock="true"
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect1711"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview978"
+     showgrid="false"
+     inkscape:zoom="5.2045796"
+     inkscape:cx="48.423674"
+     inkscape:cy="42.831921"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer7"
+     inkscape:pagecheckerboard="true"
+     showborder="true"
+     inkscape:showpageshadow="false" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot984"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(4.4601371e-6,-1552.7634)"><flowRegion
+       id="flowRegion986"><rect
+         id="rect988"
+         width="528.76508"
+         height="221.34352"
+         x="710.1438"
+         y="1251.2057" /></flowRegion><flowPara
+       id="flowPara990" /></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot992"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(4.4601371e-6,-1552.7634)"><flowRegion
+       id="flowRegion994"><rect
+         id="rect996"
+         width="6.1484313"
+         height="162.93343"
+         x="396.57382"
+         y="1171.2761" /></flowRegion><flowPara
+       id="flowPara998" /></flowRoot>  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="version_1"
+     style="display:none"
+     transform="translate(4.4601371e-6,-1552.7634)">
+    <path
+       d="m 392.97917,1652.4154 a 283.4646,283.4646 0 1 1 65.5668,-395.4811 283.4646,283.4646 0 0 1 -65.5668,395.4811 z M 359.82279,1606.08 a 226.4882,226.7716 54.413456 0 1 -316.21997,-52.223 226.4882,226.7716 54.413456 1 1 316.21997,52.223 z"
+       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="path974"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="texte_1"
+     style="display:none"
+     transform="translate(4.4601371e-6,-1552.7634)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;line-height:1.25;font-family:Classic;-inkscape-font-specification:'Classic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       id="text1030"
+       transform="rotate(56.395805,227.55626,1422.0475)"
+       x="209.82358"
+       y="-893.91553"><textPath
+         xlink:href="#path974"
+         id="textPath1032">XIPITEI XIPITEI XIPITEI XIPITEI</textPath></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="pavé"
+     style="display:inline"
+     transform="translate(4.4601371e-6,-1552.7634)">
+    <g
+       id="g1802"
+       transform="matrix(3.7795276,0,0,3.7795276,362.50194,-568.75687)">
+      <g
+         id="Layer1022-4"
+         transform="matrix(0.05366435,0,0,0.05533805,-31.987796,268.66982)"
+         style="fill:#000000">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1093"
+           style="fill:#000000;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           d="m 835.0625,48.189 a 113.3858,113.3858 0 0 0 0.0241,226.7716 56.692904,56.692904 0 0 1 -0.0409,-113.3858 h 0.0302 0.0214 A 56.6929,56.6929 0 0 0 835.1107,48.189 Z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1095"
+           style="fill:#000000;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 835.0625,48.189 a 113.3858,113.3858 0 0 0 0.0241,226.7716 56.692904,56.692904 0 0 1 -0.0409,-113.3858 h 0.0302 0.0214 A 56.6929,56.6929 0 0 0 835.1107,48.189 Z" />
+      </g>
+      <g
+         id="Layer1023-77"
+         transform="matrix(0.05366435,0,0,0.05533805,-31.987796,268.66982)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1098"
+           style="fill:#999999;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           d="m 1061.8583,274.9365 a 113.38585,113.38585 90 0 0 -226.7717,0.0241 56.692904,56.692904 90 0 1 113.3858,-0.0409 l 10e-5,0.0302 v 0.0214 a 56.6929,56.6929 90 0 0 113.3858,0.0135 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1100"
+           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 1061.8583,274.9365 a 113.38585,113.38585 90 0 0 -226.7717,0.0241 56.692904,56.692904 90 0 1 113.3858,-0.0409 l 10e-5,0.0302 v 0.0214 a 56.6929,56.6929 90 0 0 113.3858,0.0135 z" />
+      </g>
+      <g
+         id="Layer1024-68"
+         transform="matrix(0.05366435,0,0,0.05533805,-31.987796,268.66982)"
+         style="fill:#999999">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1103"
+           style="fill:#999999;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           d="m 608.315,274.9848 a 113.3858,113.3858 -90 0 0 226.7716,-0.0242 56.692904,56.692904 -90 0 1 -113.3858,0.041 v -0.0303 -0.0214 A 56.6929,56.6929 -90 0 0 608.315,274.9365 Z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1105"
+           style="fill:#999999;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 608.315,274.9848 a 113.3858,113.3858 -90 0 0 226.7716,-0.0242 56.692904,56.692904 -90 0 1 -113.3858,0.041 v -0.0303 -0.0214 A 56.6929,56.6929 -90 0 0 608.315,274.9365 Z" />
+      </g>
+      <g
+         id="Layer1025-96"
+         transform="matrix(0.05366435,0,0,0.05533805,-31.987796,268.66982)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1108"
+           style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           d="m 835.1107,501.7323 a 113.38585,113.38585 -180 0 0 -0.0241,-226.7717 56.692904,56.692904 -180 0 1 0.041,113.3858 l -0.0303,10e-5 h -0.0214 a 56.6929,56.6929 -180 0 0 -0.0134,113.3858 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1110"
+           style="fill:#1a1a1a;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 835.1107,501.7323 a 113.38585,113.38585 -180 0 0 -0.0241,-226.7717 56.692904,56.692904 -180 0 1 0.041,113.3858 l -0.0303,10e-5 h -0.0214 a 56.6929,56.6929 -180 0 0 -0.0134,113.3858 z" />
+      </g>
+    </g>
+    <g
+       transform="matrix(3.7795276,0,0,3.7795276,462.49228,-568.76697)"
+       id="g1802-7">
+      <g
+         id="Layer1022-5"
+         transform="matrix(0.05366435,0,0,0.05533805,-31.987796,268.66982)"
+         style="fill:#999999">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1093-4"
+           style="fill:#999999;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           d="m 835.0625,48.189 a 113.3858,113.3858 0 0 0 0.0241,226.7716 56.692904,56.692904 0 0 1 -0.0409,-113.3858 h 0.0302 0.0214 A 56.6929,56.6929 0 0 0 835.1107,48.189 Z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1095-3"
+           style="fill:#999999;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 835.0625,48.189 a 113.3858,113.3858 0 0 0 0.0241,226.7716 56.692904,56.692904 0 0 1 -0.0409,-113.3858 h 0.0302 0.0214 A 56.6929,56.6929 0 0 0 835.1107,48.189 Z" />
+      </g>
+      <g
+         id="Layer1023-7"
+         transform="matrix(0.05366435,0,0,0.05533805,-31.987796,268.66982)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1098-2"
+           style="fill:#000000;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           d="m 1061.8583,274.9365 a 113.38585,113.38585 90 0 0 -226.7717,0.0241 56.692904,56.692904 90 0 1 113.3858,-0.0409 l 10e-5,0.0302 v 0.0214 a 56.6929,56.6929 90 0 0 113.3858,0.0135 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1100-1"
+           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 1061.8583,274.9365 a 113.38585,113.38585 90 0 0 -226.7717,0.0241 56.692904,56.692904 90 0 1 113.3858,-0.0409 l 10e-5,0.0302 v 0.0214 a 56.6929,56.6929 90 0 0 113.3858,0.0135 z" />
+      </g>
+      <g
+         id="Layer1024-8"
+         transform="matrix(0.05366435,0,0,0.05533805,-31.987796,268.66982)"
+         style="fill:#000000">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1103-8"
+           style="fill:#000000;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           d="m 608.315,274.9848 a 113.3858,113.3858 -90 0 0 226.7716,-0.0242 56.692904,56.692904 -90 0 1 -113.3858,0.041 v -0.0303 -0.0214 A 56.6929,56.6929 -90 0 0 608.315,274.9365 Z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1105-1"
+           style="fill:#000000;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 608.315,274.9848 a 113.3858,113.3858 -90 0 0 226.7716,-0.0242 56.692904,56.692904 -90 0 1 -113.3858,0.041 v -0.0303 -0.0214 A 56.6929,56.6929 -90 0 0 608.315,274.9365 Z" />
+      </g>
+      <g
+         id="Layer1025-4"
+         transform="matrix(0.05366435,0,0,0.05533805,-31.987796,268.66982)"
+         style="fill:#000000">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1108-8"
+           style="fill:#000000;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           d="m 835.1107,501.7323 a 113.38585,113.38585 -180 0 0 -0.0241,-226.7717 56.692904,56.692904 -180 0 1 0.041,113.3858 l -0.0303,10e-5 h -0.0214 a 56.6929,56.6929 -180 0 0 -0.0134,113.3858 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1110-5"
+           style="fill:#999999;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 835.1107,501.7323 a 113.38585,113.38585 -180 0 0 -0.0241,-226.7717 56.692904,56.692904 -180 0 1 0.041,113.3858 l -0.0303,10e-5 h -0.0214 a 56.6929,56.6929 -180 0 0 -0.0134,113.3858 z" />
+      </g>
+    </g>
+    <g
+       transform="matrix(3.7795276,0,0,3.7795276,562.4826,-568.77707)"
+       id="g1802-4">
+      <g
+         id="Layer1022-7"
+         transform="matrix(0.05366435,0,0,0.05533805,-31.987796,268.66982)"
+         style="fill:#000000">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1093-7"
+           style="fill:#000000;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           d="m 835.0625,48.189 a 113.3858,113.3858 0 0 0 0.0241,226.7716 56.692904,56.692904 0 0 1 -0.0409,-113.3858 h 0.0302 0.0214 A 56.6929,56.6929 0 0 0 835.1107,48.189 Z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1095-8"
+           style="fill:#000000;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 835.0625,48.189 a 113.3858,113.3858 0 0 0 0.0241,226.7716 56.692904,56.692904 0 0 1 -0.0409,-113.3858 h 0.0302 0.0214 A 56.6929,56.6929 0 0 0 835.1107,48.189 Z" />
+      </g>
+      <g
+         id="Layer1023-0"
+         transform="matrix(0.05366435,0,0,0.05533805,-31.987796,268.66982)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1098-9"
+           style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           d="m 1061.8583,274.9365 a 113.38585,113.38585 90 0 0 -226.7717,0.0241 56.692904,56.692904 90 0 1 113.3858,-0.0409 l 10e-5,0.0302 v 0.0214 a 56.6929,56.6929 90 0 0 113.3858,0.0135 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1100-4"
+           style="fill:#999999;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 1061.8583,274.9365 a 113.38585,113.38585 90 0 0 -226.7717,0.0241 56.692904,56.692904 90 0 1 113.3858,-0.0409 l 10e-5,0.0302 v 0.0214 a 56.6929,56.6929 90 0 0 113.3858,0.0135 z" />
+      </g>
+      <g
+         id="Layer1024-2"
+         transform="matrix(0.05366435,0,0,0.05533805,-31.987796,268.66982)"
+         style="fill:#999999">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1103-9"
+           style="fill:#999999;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           d="m 608.315,274.9848 a 113.3858,113.3858 -90 0 0 226.7716,-0.0242 56.692904,56.692904 -90 0 1 -113.3858,0.041 v -0.0303 -0.0214 A 56.6929,56.6929 -90 0 0 608.315,274.9365 Z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1105-8"
+           style="fill:#999999;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 608.315,274.9848 a 113.3858,113.3858 -90 0 0 226.7716,-0.0242 56.692904,56.692904 -90 0 1 -113.3858,0.041 v -0.0303 -0.0214 A 56.6929,56.6929 -90 0 0 608.315,274.9365 Z" />
+      </g>
+      <g
+         id="Layer1025-9"
+         transform="matrix(0.05366435,0,0,0.05533805,-31.987796,268.66982)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1108-5"
+           style="fill:#000000;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           d="m 835.1107,501.7323 a 113.38585,113.38585 -180 0 0 -0.0241,-226.7717 56.692904,56.692904 -180 0 1 0.041,113.3858 l -0.0303,10e-5 h -0.0214 a 56.6929,56.6929 -180 0 0 -0.0134,113.3858 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1110-3"
+           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 835.1107,501.7323 a 113.38585,113.38585 -180 0 0 -0.0241,-226.7717 56.692904,56.692904 -180 0 1 0.041,113.3858 l -0.0303,10e-5 h -0.0214 a 56.6929,56.6929 -180 0 0 -0.0134,113.3858 z" />
+      </g>
+    </g>
+    <g
+       transform="matrix(3.7795276,0,0,3.7795276,662.47293,-568.78717)"
+       id="g1802-3">
+      <g
+         id="Layer1022-0"
+         transform="matrix(0.05366435,0,0,0.05533805,-31.987796,268.66982)"
+         style="fill:#999999">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1093-1"
+           style="fill:#999999;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           d="m 835.0625,48.189 a 113.3858,113.3858 0 0 0 0.0241,226.7716 56.692904,56.692904 0 0 1 -0.0409,-113.3858 h 0.0302 0.0214 A 56.6929,56.6929 0 0 0 835.1107,48.189 Z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1095-4"
+           style="fill:#999999;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 835.0625,48.189 a 113.3858,113.3858 0 0 0 0.0241,226.7716 56.692904,56.692904 0 0 1 -0.0409,-113.3858 h 0.0302 0.0214 A 56.6929,56.6929 0 0 0 835.1107,48.189 Z" />
+      </g>
+      <g
+         id="Layer1023-2"
+         transform="matrix(0.05366435,0,0,0.05533805,-31.987796,268.66982)"
+         style="fill:#000000">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1098-1"
+           style="fill:#000000;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           d="m 1061.8583,274.9365 a 113.38585,113.38585 90 0 0 -226.7717,0.0241 56.692904,56.692904 90 0 1 113.3858,-0.0409 l 10e-5,0.0302 v 0.0214 a 56.6929,56.6929 90 0 0 113.3858,0.0135 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1100-41"
+           style="fill:#000000;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 1061.8583,274.9365 a 113.38585,113.38585 90 0 0 -226.7717,0.0241 56.692904,56.692904 90 0 1 113.3858,-0.0409 l 10e-5,0.0302 v 0.0214 a 56.6929,56.6929 90 0 0 113.3858,0.0135 z" />
+      </g>
+      <g
+         id="Layer1024-0"
+         transform="matrix(0.05366435,0,0,0.05533805,-31.987796,268.66982)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1103-7"
+           style="fill:#000000;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           d="m 608.315,274.9848 a 113.3858,113.3858 -90 0 0 226.7716,-0.0242 56.692904,56.692904 -90 0 1 -113.3858,0.041 v -0.0303 -0.0214 A 56.6929,56.6929 -90 0 0 608.315,274.9365 Z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1105-9"
+           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 608.315,274.9848 a 113.3858,113.3858 -90 0 0 226.7716,-0.0242 56.692904,56.692904 -90 0 1 -113.3858,0.041 v -0.0303 -0.0214 A 56.6929,56.6929 -90 0 0 608.315,274.9365 Z" />
+      </g>
+      <g
+         id="Layer1025-6"
+         transform="matrix(0.05366435,0,0,0.05533805,-31.987796,268.66982)"
+         style="fill:#999999">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1108-84"
+           style="fill:#999999;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           d="m 835.1107,501.7323 a 113.38585,113.38585 -180 0 0 -0.0241,-226.7717 56.692904,56.692904 -180 0 1 0.041,113.3858 l -0.0303,10e-5 h -0.0214 a 56.6929,56.6929 -180 0 0 -0.0134,113.3858 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1110-7"
+           style="fill:#999999;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 835.1107,501.7323 a 113.38585,113.38585 -180 0 0 -0.0241,-226.7717 56.692904,56.692904 -180 0 1 0.041,113.3858 l -0.0303,10e-5 h -0.0214 a 56.6929,56.6929 -180 0 0 -0.0134,113.3858 z" />
+      </g>
+    </g>
+    <g
+       transform="matrix(3.7795276,0,0,3.7795276,762.46348,-568.79727)"
+       id="g1802-8">
+      <g
+         id="Layer1022-8"
+         transform="matrix(0.05366435,0,0,0.05533805,-31.987796,268.66982)"
+         style="fill:#000000">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1093-8"
+           style="fill:#000000;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           d="m 835.0625,48.189 a 113.3858,113.3858 0 0 0 0.0241,226.7716 56.692904,56.692904 0 0 1 -0.0409,-113.3858 h 0.0302 0.0214 A 56.6929,56.6929 0 0 0 835.1107,48.189 Z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1095-49"
+           style="fill:#000000;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 835.0625,48.189 a 113.3858,113.3858 0 0 0 0.0241,226.7716 56.692904,56.692904 0 0 1 -0.0409,-113.3858 h 0.0302 0.0214 A 56.6929,56.6929 0 0 0 835.1107,48.189 Z" />
+      </g>
+      <g
+         id="Layer1023-4"
+         transform="matrix(0.05366435,0,0,0.05533805,-31.987796,268.66982)"
+         style="fill:#999999">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1098-11"
+           style="fill:#999999;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           d="m 1061.8583,274.9365 a 113.38585,113.38585 90 0 0 -226.7717,0.0241 56.692904,56.692904 90 0 1 113.3858,-0.0409 l 10e-5,0.0302 v 0.0214 a 56.6929,56.6929 90 0 0 113.3858,0.0135 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1100-2"
+           style="fill:#999999;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 1061.8583,274.9365 a 113.38585,113.38585 90 0 0 -226.7717,0.0241 56.692904,56.692904 90 0 1 113.3858,-0.0409 l 10e-5,0.0302 v 0.0214 a 56.6929,56.6929 90 0 0 113.3858,0.0135 z" />
+      </g>
+      <g
+         id="Layer1024-9"
+         transform="matrix(0.05366435,0,0,0.05533805,-31.987796,268.66982)"
+         style="fill:#999999">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1103-2"
+           style="fill:#999999;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           d="m 608.315,274.9848 a 113.3858,113.3858 -90 0 0 226.7716,-0.0242 56.692904,56.692904 -90 0 1 -113.3858,0.041 v -0.0303 -0.0214 A 56.6929,56.6929 -90 0 0 608.315,274.9365 Z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1105-17"
+           style="fill:#999999;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 608.315,274.9848 a 113.3858,113.3858 -90 0 0 226.7716,-0.0242 56.692904,56.692904 -90 0 1 -113.3858,0.041 v -0.0303 -0.0214 A 56.6929,56.6929 -90 0 0 608.315,274.9365 Z" />
+      </g>
+      <g
+         id="Layer1025-1"
+         transform="matrix(0.05366435,0,0,0.05533805,-31.987796,268.66982)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1108-0"
+           style="fill:#000000;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           d="m 835.1107,501.7323 a 113.38585,113.38585 -180 0 0 -0.0241,-226.7717 56.692904,56.692904 -180 0 1 0.041,113.3858 l -0.0303,10e-5 h -0.0214 a 56.6929,56.6929 -180 0 0 -0.0134,113.3858 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1110-2"
+           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 835.1107,501.7323 a 113.38585,113.38585 -180 0 0 -0.0241,-226.7717 56.692904,56.692904 -180 0 1 0.041,113.3858 l -0.0303,10e-5 h -0.0214 a 56.6929,56.6929 -180 0 0 -0.0134,113.3858 z" />
+      </g>
+    </g>
+    <g
+       id="Layer1022-3"
+       transform="matrix(-0.20282589,0,0,0.20915169,215.44841,1542.763)"
+       style="fill:#1995ad;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1093-45"
+         style="fill:#1995ad;fill-opacity:1;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         d="m 835.0625,48.189 a 113.3858,113.3858 0 0 0 0.0241,226.7716 56.692904,56.692904 0 0 1 -0.0409,-113.3858 h 0.0302 0.0214 A 56.6929,56.6929 0 0 0 835.1107,48.189 Z"
+         inkscape:highlight-color="2715214368"
+         inkscape:label="path1093-45" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1095-38"
+         style="fill:#1995ad;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 835.0625,48.189 a 113.3858,113.3858 0 0 0 0.0241,226.7716 56.692904,56.692904 0 0 1 -0.0409,-113.3858 h 0.0302 0.0214 A 56.6929,56.6929 0 0 0 835.1107,48.189 Z"
+         inkscape:highlight-color="2715214386" />
+    </g>
+    <g
+       id="Layer1023-24"
+       transform="matrix(-0.20282589,0,0,0.20915169,215.44841,1542.763)"
+       style="fill:#000000">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1098-5"
+         style="fill:#a1d6e2;fill-opacity:1;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         d="m 1061.8583,274.9365 a 113.38585,113.38585 90 0 0 -226.7717,0.0241 56.692904,56.692904 90 0 1 113.3858,-0.0409 l 10e-5,0.0302 v 0.0214 a 56.6929,56.6929 90 0 0 113.3858,0.0135 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1100-7"
+         style="fill:#a1d6e2;fill-opacity:0;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 1061.8583,274.9365 a 113.38585,113.38585 90 0 0 -226.7717,0.0241 56.692904,56.692904 90 0 1 113.3858,-0.0409 l 10e-5,0.0302 v 0.0214 a 56.6929,56.6929 90 0 0 113.3858,0.0135 z" />
+    </g>
+    <g
+       id="Layer1024-6"
+       transform="matrix(-0.20282589,0,0,0.20915169,215.44841,1542.763)"
+       style="fill:#000000">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1103-3"
+         style="fill:#000000;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         d="m 608.315,274.9848 a 113.3858,113.3858 -90 0 0 226.7716,-0.0242 56.692904,56.692904 -90 0 1 -113.3858,0.041 v -0.0303 -0.0214 A 56.6929,56.6929 -90 0 0 608.315,274.9365 Z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1105-12"
+         style="fill:#a1d6e2;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 608.315,274.9848 a 113.3858,113.3858 -90 0 0 226.7716,-0.0242 56.692904,56.692904 -90 0 1 -113.3858,0.041 v -0.0303 -0.0214 A 56.6929,56.6929 -90 0 0 608.315,274.9365 Z" />
+    </g>
+    <g
+       id="Layer1025-3"
+       transform="matrix(-0.20282589,0,0,0.20915169,215.44841,1542.763)"
+       style="fill:#1995ad;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1108-845"
+         style="fill:#1995ad;fill-opacity:1;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         d="m 835.1107,501.7323 a 113.38585,113.38585 -180 0 0 -0.0241,-226.7717 56.692904,56.692904 -180 0 1 0.041,113.3858 l -0.0303,10e-5 h -0.0214 a 56.6929,56.6929 -180 0 0 -0.0134,113.3858 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1110-6"
+         style="fill:#1995ad;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 835.1107,501.7323 a 113.38585,113.38585 -180 0 0 -0.0241,-226.7717 56.692904,56.692904 -180 0 1 0.041,113.3858 l -0.0303,10e-5 h -0.0214 a 56.6929,56.6929 -180 0 0 -0.0134,113.3858 z" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="xipitei"
+     style="display:none"
+     transform="translate(4.4601371e-6,-1552.7634)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot168"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Classic;-inkscape-font-specification:'Classic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#aa0000;fill-opacity:1;stroke:url(#pattern8927);stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="translate(-144.89596,1367.5098)"><flowRegion
+         id="flowRegion170"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Classic;-inkscape-font-specification:'Classic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#aa0000;stroke:url(#pattern8927);stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><rect
+           id="rect172"
+           width="552.55347"
+           height="125.25892"
+           x="145.46196"
+           y="242.67682"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Classic;-inkscape-font-specification:'Classic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#aa0000;stroke:url(#pattern8927);stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara174"
+         style="stroke:url(#pattern8927);stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Xipitei</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="version_2"
+     style="display:none"
+     transform="translate(4.4601371e-6,-1552.7634)">
+    <g
+       id="Layer1009"
+       transform="translate(-41.010799,1145.6722)">
+      <path
+         d="m 41.3858,274.9606 a 56.69295,56.69295 0 1 0 113.3859,0 56.69295,56.69295 0 0 0 -113.3859,0 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path877"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 41.3858,274.9606 a 56.69295,56.69295 0 1 0 113.3859,0 56.69295,56.69295 0 0 0 -113.3859,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path879"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="Layer1010"
+       transform="translate(-41.010799,1145.6722)">
+      <path
+         d="m 41.3858,274.9606 a 113.38585,113.38585 0 0 0 226.7717,0.0242 56.692901,56.692901 0 0 1 -113.3858,-0.0242 56.69295,56.69295 0 0 1 -113.3859,0 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path882"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 41.3858,274.9606 a 113.38585,113.38585 0 0 0 226.7717,0.0242 56.692901,56.692901 0 0 1 -113.3858,-0.0242 56.69295,56.69295 0 0 1 -113.3859,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path884"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="Layer1011"
+       transform="translate(-41.010799,1145.6722)">
+      <path
+         d="m 268.1575,48.189 a 56.6929,56.6929 90 1 0 0,113.3858 56.6929,56.6929 90 0 0 0,-113.3858 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path887"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 268.1575,48.189 a 56.6929,56.6929 90 1 0 0,113.3858 56.6929,56.6929 90 0 0 0,-113.3858 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path889"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="Layer1012"
+       transform="translate(-41.010799,1145.6722)">
+      <path
+         d="m 268.1575,48.189 a 113.3858,113.3858 90 0 0 -0.0241,226.7716 56.692901,56.692901 90 0 1 0.0241,-113.3858 56.6929,56.6929 90 0 1 0,-113.3858 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path892"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 268.1575,48.189 a 113.3858,113.3858 90 0 0 -0.0241,226.7716 56.692901,56.692901 90 0 1 0.0241,-113.3858 56.6929,56.6929 90 0 1 0,-113.3858 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path894"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="Layer1013"
+       transform="translate(-41.010799,1145.6722)">
+      <path
+         d="m 268.1575,501.7323 a 56.69295,56.69295 -90 1 0 0,-113.3859 56.69295,56.69295 -90 0 0 0,113.3859 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path897"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 268.1575,501.7323 a 56.69295,56.69295 -90 1 0 0,-113.3859 56.69295,56.69295 -90 0 0 0,113.3859 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path899"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="Layer1014"
+       transform="translate(-41.010799,1145.6722)">
+      <path
+         d="m 268.1575,501.7323 a 113.38585,113.38585 -90 0 0 0.0241,-226.7717 56.692901,56.692901 -90 0 1 -0.0241,113.3858 56.69295,56.69295 -90 0 1 0,113.3859 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path902"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 268.1575,501.7323 a 113.38585,113.38585 -90 0 0 0.0241,-226.7717 56.692901,56.692901 -90 0 1 -0.0241,113.3858 56.69295,56.69295 -90 0 1 0,113.3859 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path904"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="Layer1015"
+       transform="translate(-41.010799,1145.6722)">
+      <path
+         d="m 494.9291,274.9606 a 56.6929,56.6929 -180 1 0 -113.3858,0 56.6929,56.6929 -180 0 0 113.3858,0 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path907"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 494.9291,274.9606 a 56.6929,56.6929 -180 1 0 -113.3858,0 56.6929,56.6929 -180 0 0 113.3858,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path909"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="Layer1016"
+       transform="translate(-41.010799,1145.6722)">
+      <path
+         d="m 494.9291,274.9606 a 113.3858,113.3858 -180 0 0 -226.7716,-0.0241 56.692901,56.692901 -180 0 1 113.3858,0.0241 56.6929,56.6929 -180 0 1 113.3858,0 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path912"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 494.9291,274.9606 a 113.3858,113.3858 -180 0 0 -226.7716,-0.0241 56.692901,56.692901 -180 0 1 113.3858,0.0241 56.6929,56.6929 -180 0 1 113.3858,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path914"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="original"
+     style="display:none;opacity:0.60199998"
+     transform="translate(4.4601371e-6,-1552.7634)">
+    <g
+       id="Layer1022"
+       transform="translate(-607.94,1145.6722)">
+      <path
+         d="m 835.0625,48.189 a 113.3858,113.3858 0 0 0 0.0241,226.7716 56.692904,56.692904 0 0 1 -0.0409,-113.3858 h 0.0302 0.0214 A 56.6929,56.6929 0 0 0 835.1107,48.189 Z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path946"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 835.0625,48.189 a 113.3858,113.3858 0 0 0 0.0241,226.7716 56.692904,56.692904 0 0 1 -0.0409,-113.3858 h 0.0302 0.0214 A 56.6929,56.6929 0 0 0 835.1107,48.189 Z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path948"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="Layer1023"
+       transform="translate(-607.94,1145.6722)">
+      <path
+         d="m 1061.8583,274.9365 a 113.38585,113.38585 90 0 0 -226.7717,0.0241 56.692904,56.692904 90 0 1 113.3858,-0.0409 l 10e-5,0.0302 v 0.0214 a 56.6929,56.6929 90 0 0 113.3858,0.0135 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path951"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1061.8583,274.9365 a 113.38585,113.38585 90 0 0 -226.7717,0.0241 56.692904,56.692904 90 0 1 113.3858,-0.0409 l 10e-5,0.0302 v 0.0214 a 56.6929,56.6929 90 0 0 113.3858,0.0135 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path953"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="Layer1024"
+       transform="translate(-607.94,1145.6722)">
+      <path
+         d="m 608.315,274.9848 a 113.3858,113.3858 -90 0 0 226.7716,-0.0242 56.692904,56.692904 -90 0 1 -113.3858,0.041 v -0.0303 -0.0214 A 56.6929,56.6929 -90 0 0 608.315,274.9365 Z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path956"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 608.315,274.9848 a 113.3858,113.3858 -90 0 0 226.7716,-0.0242 56.692904,56.692904 -90 0 1 -113.3858,0.041 v -0.0303 -0.0214 A 56.6929,56.6929 -90 0 0 608.315,274.9365 Z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path958"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="Layer1025"
+       transform="translate(-607.94,1145.6722)">
+      <path
+         d="m 835.1107,501.7323 a 113.38585,113.38585 -180 0 0 -0.0241,-226.7717 56.692904,56.692904 -180 0 1 0.041,113.3858 l -0.0303,10e-5 h -0.0214 a 56.6929,56.6929 -180 0 0 -0.0134,113.3858 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path961"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 835.1107,501.7323 a 113.38585,113.38585 -180 0 0 -0.0241,-226.7717 56.692904,56.692904 -180 0 1 0.041,113.3858 l -0.0303,10e-5 h -0.0214 a 56.6929,56.6929 -180 0 0 -0.0134,113.3858 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path963"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="version_3"
+     style="display:none"
+     transform="translate(4.4601371e-6,-1552.7634)">
+    <path
+       d="m 198.8244,1222.2076 h -0.048"
+       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="path917"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 198.8244,1222.2076 h -0.048"
+       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="path919"
+       inkscape:connector-curvature="0" />
+    <g
+       id="Layer1017"
+       transform="translate(-1741.7982,1145.6722)">
+      <path
+         d="m 1968.9449,246.6142 a 42.5197,42.5197 0 0 1 -0.011,-85.0394 h 0.021 a 56.6929,56.6929 0 0 0 0.013,-113.3858 h -0.048 a 113.3858,113.3858 0 0 0 0.024,226.7716 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path921"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1968.9449,246.6142 a 42.5197,42.5197 0 0 1 -0.011,-85.0394 h 0.021 a 56.6929,56.6929 0 0 0 0.013,-113.3858 h -0.048 a 113.3858,113.3858 0 0 0 0.024,226.7716 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path923"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="Layer1018"
+       transform="translate(-1741.7982,1145.6722)">
+      <path
+         d="m 1997.2913,274.9606 a 42.5197,42.5197 0 0 1 85.0394,-0.0107 v 0.0215 a 56.6929,56.6929 0 0 0 113.3858,0.0134 v -0.0483 a 113.3858,113.3858 0 0 0 -226.7716,0.0241 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path926"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1997.2913,274.9606 a 42.5197,42.5197 0 0 1 85.0394,-0.0107 v 0.0215 a 56.6929,56.6929 0 0 0 113.3858,0.0134 v -0.0483 a 113.3858,113.3858 0 0 0 -226.7716,0.0241 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path928"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="Layer1019"
+       transform="translate(-1741.7982,1145.6722)">
+      <path
+         d="m 1968.9449,303.3071 a 42.5197,42.5197 0 0 1 0.011,85.0394 h -0.021 a 56.6929,56.6929 0 0 0 -0.014,113.3858 h 0.048 a 113.38585,113.38585 0 0 0 -0.024,-226.7717 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path931"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1968.9449,303.3071 a 42.5197,42.5197 0 0 1 0.011,85.0394 h -0.021 a 56.6929,56.6929 0 0 0 -0.014,113.3858 h 0.048 a 113.38585,113.38585 0 0 0 -0.024,-226.7717 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path933"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="Layer1020"
+       transform="translate(-1741.7982,1145.6722)">
+      <path
+         d="m 1940.5984,274.9606 a 42.5197,42.5197 0 0 1 -85.0394,0.0108 v -0.0215 a 56.6929,56.6929 0 0 0 -113.3858,-0.0134 v 0.0483 a 113.38585,113.38585 0 0 0 226.7717,-0.0242 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path936"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1940.5984,274.9606 a 42.5197,42.5197 0 0 1 -85.0394,0.0108 v -0.0215 a 56.6929,56.6929 0 0 0 -113.3858,-0.0134 v 0.0483 a 113.38585,113.38585 0 0 0 226.7717,-0.0242 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path938"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="Layer1021"
+       transform="translate(-1741.7982,1145.6722)">
+      <path
+         d="m 1968.9449,303.3071 a 28.3465,28.3465 0 0 0 0.01,-56.6929 h -0.014 a 28.3465,28.3465 0 0 0 0.01,56.6929 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path941"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1968.9449,303.3071 a 28.3465,28.3465 0 0 0 0.01,-56.6929 h -0.014 a 28.3465,28.3465 0 0 0 0.01,56.6929 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path943"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="version_4"
+     style="display:none"
+     transform="translate(4.4601371e-6,-1552.7634)">
+    <path
+       d="m 198.8243,1222.2076 h -0.048"
+       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="path828"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 198.8243,1222.2076 h -0.048"
+       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="path830"
+       inkscape:connector-curvature="0" />
+    <g
+       id="Layer1000"
+       transform="translate(-1174.8691,1145.6722)">
+      <path
+         d="m 1401.9916,48.189 a 56.6929,56.6929 0 0 0 0.013,113.3858 h 0.021 a 56.6929,56.6929 0 0 0 0.013,-113.3858 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path832"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1401.9916,48.189 a 56.6929,56.6929 0 0 0 0.013,113.3858 h 0.021 a 56.6929,56.6929 0 0 0 0.013,-113.3858 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path834"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="Layer1001"
+       transform="translate(-1174.8691,1145.6722)">
+      <path
+         d="m 1402.0158,246.6142 a 42.5197,42.5197 0 0 1 -0.011,-85.0394 56.6929,56.6929 0 0 1 -0.013,-113.3858 113.3858,113.3858 0 0 0 0.024,226.7716 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path837"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1402.0158,246.6142 a 42.5197,42.5197 0 0 1 -0.011,-85.0394 56.6929,56.6929 0 0 1 -0.013,-113.3858 113.3858,113.3858 0 0 0 0.024,226.7716 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path839"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="Layer1002"
+       transform="translate(-1174.8691,1145.6722)">
+      <path
+         d="m 1628.7874,274.9365 a 56.6929,56.6929 90 0 0 -113.3858,0.0134 v 0.0214 a 56.6929,56.6929 90 0 0 113.3858,0.0135 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path842"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1628.7874,274.9365 a 56.6929,56.6929 90 0 0 -113.3858,0.0134 v 0.0214 a 56.6929,56.6929 90 0 0 113.3858,0.0135 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path844"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="Layer1003"
+       transform="translate(-1174.8691,1145.6722)">
+      <path
+         d="m 1430.3622,274.9606 a 42.5197,42.5197 90 0 1 85.0394,-0.0107 56.6929,56.6929 90 0 1 113.3858,-0.0134 113.3858,113.3858 90 0 0 -226.7716,0.0241 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path847"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1430.3622,274.9606 a 42.5197,42.5197 90 0 1 85.0394,-0.0107 56.6929,56.6929 90 0 1 113.3858,-0.0134 113.3858,113.3858 90 0 0 -226.7716,0.0241 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path849"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="Layer1004"
+       transform="translate(-1174.8691,1145.6722)">
+      <path
+         d="m 1402.0399,501.7323 a 56.6929,56.6929 -180 0 0 -0.013,-113.3858 h -0.021 a 56.6929,56.6929 -180 0 0 -0.013,113.3858 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path852"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1402.0399,501.7323 a 56.6929,56.6929 -180 0 0 -0.013,-113.3858 h -0.021 a 56.6929,56.6929 -180 0 0 -0.013,113.3858 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path854"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="Layer1005"
+       transform="translate(-1174.8691,1145.6722)">
+      <path
+         d="m 1402.0158,303.3071 a 42.5197,42.5197 -180 0 1 0.011,85.0394 56.6929,56.6929 -180 0 1 0.013,113.3858 113.38585,113.38585 -180 0 0 -0.024,-226.7717 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path857"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1402.0158,303.3071 a 42.5197,42.5197 -180 0 1 0.011,85.0394 56.6929,56.6929 -180 0 1 0.013,113.3858 113.38585,113.38585 -180 0 0 -0.024,-226.7717 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path859"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="Layer1006"
+       transform="translate(-1174.8691,1145.6722)">
+      <path
+         d="m 1175.2441,274.9848 a 56.6929,56.6929 -90 0 0 113.3858,-0.0135 v -0.0214 a 56.6929,56.6929 -90 0 0 -113.3858,-0.0134 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path862"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1175.2441,274.9848 a 56.6929,56.6929 -90 0 0 113.3858,-0.0135 v -0.0214 a 56.6929,56.6929 -90 0 0 -113.3858,-0.0134 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path864"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="Layer1007"
+       transform="translate(-1174.8691,1145.6722)">
+      <path
+         d="m 1373.6693,274.9606 a 42.5197,42.5197 -90 0 1 -85.0394,0.0107 56.6929,56.6929 -90 0 1 -113.3858,0.0135 113.3858,113.3858 -90 0 0 226.7716,-0.0242 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path867"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1373.6693,274.9606 a 42.5197,42.5197 -90 0 1 -85.0394,0.0107 56.6929,56.6929 -90 0 1 -113.3858,0.0135 113.3858,113.3858 -90 0 0 226.7716,-0.0242 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path869"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="Layer1008"
+       transform="translate(-1174.8691,1145.6722)">
+      <path
+         d="m 1402.0158,303.3071 a 28.3465,28.3465 0 0 0 0.01,-56.6929 h -0.014 a 28.3465,28.3465 0 0 0 0.01,56.6929 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+         id="path872"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1402.0158,303.3071 a 28.3465,28.3465 0 0 0 0.01,-56.6929 h -0.014 a 28.3465,28.3465 0 0 0 0.01,56.6929 z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path874"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
