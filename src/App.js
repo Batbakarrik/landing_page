@@ -28,6 +28,7 @@ const Article = styled.div`
 `
 const Footer = styled.div`
   background-color: #1995AD;
+  width: 100%;
 `
 const Description = styled.div`
   margin: 10px;
@@ -61,7 +62,7 @@ function App() {
         <Titre> Xipitei </Titre>
         <Entete>
           <Titre3> <a href="https://twitter.com/Xipitei_Fb">Twitter ></a> </Titre3>
-          <Titre3> <a href="https://www.blog.xipitei.com">Blog ></a></Titre3>
+          <Titre3> Blog ></Titre3>
           <Titre3> Login ></Titre3>
         </Entete>
       </Header>

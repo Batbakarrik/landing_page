@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
 import styled from 'styled-components'
+// import contact from '../contacts'
+// import base from '../base'
 
 const Box = styled.div`
     background-color: #A1D6E2;
@@ -9,6 +11,7 @@ const Box = styled.div`
     padding: 20px 0px 20px 0px;
     border: 5px, 0px, 0px, 0px;
     max-height: 300px;
+    width: 100%;
     flex-wrap: wrap;
     @media (min-width: 760px) {
         display: flex;
@@ -56,11 +59,19 @@ const Titre = styled.h1`
 `
 export default class Form extends Component {
     state = {
+        contact: {},
         firstname: "",
         lastname: "",
         email:"",
     };
     
+    // componentDidMount () {
+    //     base.syncState('/', {
+    //         context: this,
+    //         state: 'client'
+    //     })
+    // }
+
     handleChange = event => {
         const title = event.target.title;
         this.setState({ [title]: event.target.value });
